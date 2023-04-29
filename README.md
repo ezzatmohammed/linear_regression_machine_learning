@@ -1,2 +1,2 @@
-# machine_learning1
+# linear_regression_machine_learning
 practice on linear regression , lasso , ridge
